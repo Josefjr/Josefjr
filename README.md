@@ -2,7 +2,7 @@
 
 - 🔭 Trabalhando no meu conhecimento, investindo meu tempo agora para ter algo para admirar lá na frente
 
-- 🧠 Estudando Front-end e Javascript/Vue.js
+- 🧠 Estudando Front-end e Javascript React
 - 💬 jnrhp@hotmail.com
 - 🐥 @josef_jr89
 - 📷 @josef_jr89
